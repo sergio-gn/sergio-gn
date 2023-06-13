@@ -1,11 +1,11 @@
-<img  align="center" src=""  alt="Sergio GN web developer"  />
+<img  align="center" src="https://raw.githubusercontent.com/sergio-gn/sergio-gn/main/wave.webp"  alt="Sergio GN web developer"  />
 <h1  align="center">Hey Mate👋, I'm Sergio</h1>
 <h3  align="center">Frontend Web Developer 👩🏾‍🎓| Performance Advocate 🥑| SEO oriented websites</h3>
 
 <h1>🎆 About Me 🎆</h1>
-<p  align='justify'>Everything that you see on my repositories is aiming to turn my websites more simple and performatic with the final objective to rank better on Search Engines.</p>
-<p  align='justify'>Chill and simple down to earth guy. I love playing <a  href="https://www.chess.com/member/doubletwisty" target="blank">chess</a>♟️on my freetime. If you play too, add me, let's have a match!</p>
-<p  align='justify'>I also love to develop games 🎮 as a hobby, currently looking for a developing buddy!</p>
+<p  align='justify'>Everything that you see on my repositories is aiming to turn my websites more simple and performative with the final objective of ranking better on Search Engines.</p>
+<p  align='justify'>Chill and simple down to earth guy. I love playing <a  href="https://www.chess.com/member/doubletwisty" target="blank">chess</a>♟️on my freetime. If you play too, add me, and let's have a match!</p>
+<p  align='justify'>I also love to develop games 🎮 as a hobby, and I am currently looking for a developing buddy!</p>
 <p  align='justify'>Another thing I love to do is draw on procreate ✏️ to relax after a day of bugs solving xD</p>
 <p  align="justify">Otherwise, <a  href="https://earthhoomans.com/"  target="_blank">I blog</a> 🔍 and I mainly write about sustenability🌱. Access the blog and take a look! <a  href="https://earthhoomans.com/"  target="_blank">Earthhoomans.</a></p>
 
