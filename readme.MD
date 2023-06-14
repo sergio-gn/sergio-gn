@@ -1,67 +1,57 @@
-<img  align="center" src="https://raw.githubusercontent.com/sergio-gn/sergio-gn/main/wave.webp"  alt="Sergio GN web developer"  />
-<h1  align="center">Hey Mate👋, I'm Sergio</h1>
-<h3  align="center">Frontend Web Developer 👩🏾‍🎓| Performance Advocate 🥑| SEO oriented websites</h3>
+![Sergio GN web developer](https://raw.githubusercontent.com/sergio-gn/sergio-gn/main/wave.webp)
 
-<h1>🎆 About Me 🎆</h1>
-<p  align='justify'>Everything that you see on my repositories is aiming to turn my websites more simple and performative with the final objective of ranking better on Search Engines.</p>
-<p  align='justify'>Chill and simple down to earth guy. I love playing <a  href="https://www.chess.com/member/doubletwisty" target="blank">chess</a>♟️on my freetime. If you play too, add me, and let's have a match!</p>
-<p  align='justify'>I also love to develop games 🎮 as a hobby, and I am currently looking for a developing buddy!</p>
-<p  align='justify'>Another thing I love to do is draw on procreate ✏️ to relax after a day of bugs solving xD</p>
-<p  align="justify">Otherwise, <a  href="https://earthhoomans.com/"  target="_blank">I blog</a> 🔍 and I mainly write about sustenability🌱. Access the blog and take a look! <a  href="https://earthhoomans.com/"  target="_blank">Earthhoomans.</a></p>
+# Hey Mate👋, I'm Sergio
+### Frontend Web Developer 👩🏾‍🎓| Performance Advocate | SEO oriented websites
 
-<h1>My Projects 🔥</h1>
+# About Me 👽
+Everything that you see on my repositories is aimed to turn my websites more simple and performative with the final objective of ranking better on Search Engines.
 
-<ul>
-<li><a  href="https://earthhoomans.com/"  target="blank">Earth Hoomans</a></li>
-<li><a  href="#"  target="blank">GOF</a></li>
-</ul>
+Chill and simple down to earth guy. I love playing [chess](https://www.chess.com/member/doubletwisty) ♟️ in my free time. If you play too, add me, and let's have a match!
 
-<h1  align="left">Skills</h1>
+I also love to develop games 🎮 as a hobby, and I am currently looking for a developing buddy!
 
-<h3>{ Operating System }</h3>
-<p  align="left">
-<img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  width="80px"  />
-</p>
+Another thing I love to do is draw on Procreate ✏️ to relax after a day of bugs solving xD
 
-<h3>{ Languages: Frontend }</h3>
-<p  align="left"  width="80px">
-<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  />
-<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  />
-<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  />
-<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
-<img  src="https://img.shields.io/badge/-php-blueviolet?logo=php&logoColor=white&style=flat"  />
-</p>
+Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sustainability🌱. Access the blog and take a look! [Earthhoomans.](https://earthhoomans.com/)
 
-<h3>{ Technologies }</h3>
-<img  src="https://img.shields.io/badge/-wordpress-9cf?logo=wordpress&logoColor=white&style=flat"  />
+# Projects 😎
+- [Earth Hoomans](https://earthhoomans.com/)
+- [GOF](#)
 
-<h3>{ Languages: Backend }</h3>
+# Skills
+## { Operating System }
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p  align="left">
-<img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  width="80px"  />
-<img  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"  width="80px"  />
-</p>
+## { Languages: Frontend }
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-blueviolet?style=for-the-badge&logo=php&logoColor=white)
 
-<h3>Design 🎨</h3>
+## { Technologies }
+![WordPress](https://img.shields.io/badge/-wordpress-9cf?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<p  align="left width="80px"">
-<img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  />
-<img  src="https://img.shields.io/badge/photoshop-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"  />
-<img  src="https://img.shields.io/badge/illustrator-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20illustrator&logoColor=white"  />
-<img  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  />
-</p>
+## { Languages: Backend }
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<h3>👩‍🏫 Where I learned How To Code 👩🏾‍🎓</h3>
+## { Learning }
+![Strapi](https://img.shields.io/badge/-strapi-ff69b4?style=for-the-badge&logo=strapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<p  align="left">
-<img  src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"  />
-<img  src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"  />
-<img  src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"  />
-<img  src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"  />
-</p>
+## Design 🎨
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/illustrator-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<h1  align="left"> Connect with me 😁</h1>
-<p  align="left">
-<a  href="https://codepen.io/sergio-gn"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="treciaks"  height="30"  width="40"  /></a>
-<a  href="https://www.linkedin.com/in/sergio-gn/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="treciaks"  height="30"  width="40"  /></a>
-</p>
+## 👩‍🏫 Where I learned How To Code 👩🏾‍🎓
+![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
+# Connect with me 😁
+- [CodePen](https://codepen.io/sergio-gn)
+- [LinkedIn](https://www.linkedin.com/in/sergio-gn/)
