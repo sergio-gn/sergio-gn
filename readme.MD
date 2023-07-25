@@ -16,7 +16,7 @@ Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sus
 
 # Projects 😎
 - [Earth Hoomans](https://earthhoomans.com/)
-- [GOF](#)
+- [How Rare is my Sunset](https://sergiogn.pythonanywhere.com/)
 
 # Skills
 ## { Operating System }
