@@ -25,18 +25,18 @@ Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sus
 ## { Languages: Frontend }
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-blueviolet?style=for-the-badge&logo=php&logoColor=white)
 
 ## { Technologies }
 ![WordPress](https://img.shields.io/badge/-wordpress-9cf?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-EB743B?style=for-the-badge&logo=firebase&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## { Languages: Backend }
+![PHP](https://img.shields.io/badge/php-blueviolet?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## { Learning }
 ![Strapi](https://img.shields.io/badge/-strapi-ff69b4?style=for-the-badge&logo=strapi&logoColor=white)
