@@ -31,6 +31,8 @@ Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sus
 
 ## { Technologies }
 ![WordPress](https://img.shields.io/badge/-wordpress-9cf?style=for-the-badge&logo=wordpress&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-EB743B?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## { Languages: Backend }
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
