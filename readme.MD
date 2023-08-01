@@ -4,7 +4,7 @@
 ### Frontend Web Developer 👩🏾‍🎓| Performance Advocate | SEO oriented websites
 
 # About Me 👽
-Everything that you see on my repositories is aimed to turn my websites more simple and performative with the final objective of ranking better on Search Engines.
+Each repository aims to create high-performance websites to improve their rankings on Search Engines.
 
 Chill and simple down to earth guy. I love playing [chess](https://www.chess.com/member/doubletwisty) ♟️ in my free time. If you play too, add me, and let's have a match!
 
