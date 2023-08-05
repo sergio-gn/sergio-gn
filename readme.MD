@@ -17,6 +17,7 @@ Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sus
 # Projects 😎
 - [Earth Hoomans](https://earthhoomans.com/)
 - [How Rare is my Sunset](https://sergiogn.pythonanywhere.com/)
+- [Simple E-Commerce](https://tambasa-c53d7.web.app/)
 
 # Skills
 ## { Operating System }
