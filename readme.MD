@@ -14,6 +14,9 @@ Another thing I love to do is draw on Procreate ✏️ to relax after a day of b
 
 Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sustainability🌱. Access the blog and take a look! [Earthhoomans.](https://earthhoomans.com/)
 
+# Check my Portfolio
+- [Personal Portfolio](https://sergio-gn.github.io/)
+
 # Personal Projects 😎
 - [Earth Hoomans](https://earthhoomans.com/)
 - [How Rare is my Sunset](https://sergiogn.pythonanywhere.com/)
