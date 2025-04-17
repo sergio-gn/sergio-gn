@@ -6,21 +6,18 @@
 # About Me 👽
 Each repository aims to create high-performance websites to improve their rankings on Search Engines.
 
-Chill and simple down to earth guy. I love playing [chess](https://www.chess.com/member/doubletwisty) ♟️ in my free time. If you play too, add me, and let's have a match!
+I'm a chill, simple, down-to-earth guy who loves playing [chess](https://www.chess.com/member/doubletwisty) ♟️ in my free time. If you play, too, add me, and let's have a match!
 
-I also love to develop games 🎮 as a hobby, and I am currently looking for a developing buddy!
+I also love to develop games 🎮 as a hobby.
 
-Another thing I love to do is draw on Procreate ✏️ to relax after a day of bugs solving xD
-
-Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sustainability🌱. Access the blog and take a look! [Earthhoomans.](https://earthhoomans.com/)
+Otherwise, [I blog](https://earthhoomans.com/) 🔍 and write about sustainability🌱. Access the blog and take a look! [Earthhoomans.](https://earthhoomans.com/)
 
 # Check my Portfolio
 - [Personal Portfolio](https://sergio-gn.github.io/)
 
 # Personal Projects 😎
-- [Earth Hoomans](https://earthhoomans.com/)
-- [How Rare is my Sunset](https://sergiogn.pythonanywhere.com/)
-- [Simple E-Commerce](https://tambasa-c53d7.web.app/)
+- [WordPress Theme](https://github.com/sergio-gn/modular-performance-theme)
+- [WordPress Plugin](https://github.com/sergio-gn/wp-page-filter-by-template-and-parent)
 
 # Skills
 ## { Operating System }
@@ -43,14 +40,13 @@ Otherwise, [I blog](https://earthhoomans.com/) 🔍 and I mainly write about sus
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## { Learning }
-![Strapi](https://img.shields.io/badge/-strapi-ff69b4?style=for-the-badge&logo=strapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/-gutenberg-ff69b4?style=for-the-badge&logo=gutenberg&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 
 ## Design 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/illustrator-%2300C4CC.svg?&style=for-the-badge&logo=Adobe%20illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 👩‍🏫 Where I learned How To Code 👩🏾‍🎓
 ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
